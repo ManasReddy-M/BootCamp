@@ -1,5 +1,5 @@
 def phone_book():
-    # Create the phone book dictionary (Name -> Phone Number)
+
     contacts = {}
 
     while True:
