@@ -2,7 +2,7 @@ def todo_list():
     # Create empty list
     tasks = []
 
-    # Loop until user quits
+    # Loop until user quits 
     while True:
         print("\n📝 To-Do List Menu")
         print("1. Add task")

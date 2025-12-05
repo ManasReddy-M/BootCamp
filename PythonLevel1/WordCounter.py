@@ -4,7 +4,7 @@ def analyze_sentence(sentence: str) -> dict:
     and finds the longest and shortest words.
     """
     
-    # 1. Prepare the words list
+    # 1. Prepare the words list 
     # Split the sentence by spaces. This handles multiple spaces gracefully
     # and automatically removes leading/trailing whitespace from the original sentence.
     words = sentence.split()

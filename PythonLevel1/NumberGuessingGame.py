@@ -9,7 +9,7 @@ def guessing_game():
     # 1. Generate a random number between 1 and 100 (inclusive)
     secret_number = random.randint(1, 100)
     
-    # Initialize variables
+    # Initialize variables 
     attempts = 0
     guess = None  # Use None to ensure the while loop starts
     

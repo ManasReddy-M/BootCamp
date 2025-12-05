@@ -13,7 +13,7 @@ def phone_book():
         choice = input("Enter your choice (1-5): ")
 
         if choice == '1':
-            # --- Add Contact ---
+            # --- Add Contact --
             name = input("Enter contact name: ").strip()
             print(name)
             phone = input("Enter phone number: ").strip()

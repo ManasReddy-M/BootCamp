@@ -3,7 +3,7 @@ numbers = [5, 2, 8, 1, 9, 3, 7, 4, 6, 10]
 print(f"Original List: {numbers}")
 print("---")
 
-# 1. Find the Sum using sum()
+# 1. Find the Sum using sum().
 total_sum = sum(numbers)
 print(f"1. Sum (using sum()): {total_sum}")
 

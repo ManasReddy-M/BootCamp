@@ -1,6 +1,6 @@
 import sys
 
-# Store at least 5 questions with answers
+# Store at least 5 questions with answers 
 questions = [
     {
         "question": "What is the capital of France?",
