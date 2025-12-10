@@ -1,0 +1,7 @@
+[
+    {"user_id": 101, "user_name": "Alice", "age": 25, "status": "active", "user_email": "alice@example.com"},
+    {"user_id": 102, "user_name": "Bob", "age": 17, "status": "active", "user_email": "bob@example.com"},
+    {"user_id": 103, "user_name": "Charlie", "age": 30, "status": "active", "user_email": "charlie@example.com"},
+    {"user_id": 104, "user_name": "David", "age": 22, "status": "active", "user_email": "david@example.com"},
+    {"user_id": 105, "user_name": "Eve", "age": 16, "status": "inactive", "user_email": "eve@example.com"}
+]
